@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "rmd_lab7",
+    "slug": "rmd_lab7",
+    "scheme": "rmdlab7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
