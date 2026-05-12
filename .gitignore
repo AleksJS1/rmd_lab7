@@ -1,0 +1,47 @@
+node_modules
+
+# Expo / React Native
+.expo
+.expo/*
+.expo-shared
+.expo/state.json
+.expo/packager-info.json
+.expo/web/cache
+
+# Build outputs
+android/
+android/app/build/
+ios/
+ios/Pods/
+web-build/
+dist/
+build/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment
+.env
+.env.*
+
+# Keystore / signing
+*.keystore
+*.p12
+*.jks
+
+# Misc
+.parcel-cache
+.cache
+.tmp
+.packages
+.gradle
+coverage/
